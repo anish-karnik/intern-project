@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "title": "Azure HCI Edge Server",
+      "price": 1899.99,
+      "description": "High-performance edge server by Azure HCI for real-time data processing at the edge.",
+      "category": "servers",
+      "image": "https://media.licdn.com/dms/image/D5612AQGSDLieloBqOw/article-cover_image-shrink_600_2000/0/1684001870256?e=2147483647&v=beta&t=nTui-UsFvyf0yNryeogwHoc3Af6yP6cQb7mR3FvCYkw",
+      "rating": {
+        "rate": 4.8,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Google Edge TPU Server",
+      "price": 2099.99,
+      "description": "Edge TPU server by Google for machine learning and AI applications at the edge.",
+      "category": "servers",
+      "image": "https://example.com/images/google_edge_tpu_server.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 95
+      }
+    },
+    {
+      "id": 3,
+      "title": "Nutanix Edge Server",
+      "price": 1799.99,
+      "description": "Reliable and scalable edge server by Nutanix for enterprise-level applications.",
+      "category": "servers",
+      "image": "https://example.com/images/nutanix_edge_server.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 110
+      }
+    },
+    {
+      "id": 4,
+      "title": "Smart Speaker - Voice Assistant",
+      "price": 99.99,
+      "description": "A smart speaker with integrated voice assistant for seamless control of your smart home.",
+      "category": "smart speakers",
+      "image": "https://example.com/images/smart_speaker_1.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 230
+      }
+    },
+    {
+      "id": 5,
+      "title": "Smartwatch - Health Tracker",
+      "price": 199.99,
+      "description": "A smartwatch with advanced health tracking features and connectivity to your mobile device.",
+      "category": "smartwatches",
+      "image": "https://example.com/images/smartwatch_1.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 320
+      }
+    },
+    {
+      "id": 6,
+      "title": "IoT Environmental Sensor",
+      "price": 69.99,
+      "description": "An IoT sensor for real-time environmental monitoring and data collection.",
+      "category": "IoT devices",
+      "image": "https://example.com/images/iot_sensor_1.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 160
+      }
+    },
+    {
+      "id": 7,
+      "title": "POS System - Retail Solution",
+      "price": 299.99,
+      "description": "A point of sale system designed for seamless transactions and inventory management in retail.",
+      "category": "POS systems",
+      "image": "https://example.com/images/pos_system_1.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 90
+      }
+    },
+    {
+      "id": 8,
+      "title": "Autonomous Robot - Industrial",
+      "price": 4999.99,
+      "description": "An autonomous robot for industrial applications, capable of performing complex tasks.",
+      "category": "robots",
+      "image": "https://example.com/images/robot_1.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 50
+      }
+    },
+    {
+      "id": 9,
+      "title": "Connected Vehicle - Fleet Management",
+      "price": 24999.99,
+      "description": "A connected vehicle designed for efficient fleet management and real-time data communication.",
+      "category": "vehicles",
+      "image": "https://example.com/images/vehicle_1.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 30
+      }
+    },
+    {
+      "id": 10,
+      "title": "Wearable Sensor - Fitness",
+      "price": 79.99,
+      "description": "A wearable sensor for fitness tracking and health monitoring.",
+      "category": "sensors",
+      "image": "https://example.com/images/wearable_sensor_1.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 300
+      }
+    },
+    {
+      "id": 11,
+      "title": "Smart Speaker - High Fidelity",
+      "price": 149.99,
+      "description": "A high-fidelity smart speaker with superior sound quality and voice assistant integration.",
+      "category": "smart speakers",
+      "image": "https://example.com/images/smart_speaker_2.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 200
+      }
+    },
+    {
+      "id": 12,
+      "title": "Smartwatch - Advanced Features",
+      "price": 249.99,
+      "description": "A smartwatch with advanced features for health monitoring and connectivity.",
+      "category": "smartwatches",
+      "image": "https://example.com/images/smartwatch_2.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 310
+      }
+    },
+    {
+      "id": 13,
+      "title": "Smartphone - Edge Computing",
+      "price": 799.99,
+      "description": "A powerful smartphone capable of edge computing for enhanced performance and functionality.",
+      "category": "phones",
+      "image": "https://example.com/images/smartphone_1.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 450
+      }
+    },
+    {
+      "id": 14,
+      "title": "IoT Industrial Sensor",
+      "price": 89.99,
+      "description": "An industrial IoT sensor for real-time monitoring and data collection.",
+      "category": "IoT devices",
+      "image": "https://example.com/images/iot_sensor_2.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "POS System - Advanced",
+      "price": 399.99,
+      "description": "An advanced point of sale system with enhanced features for retail and hospitality.",
+      "category": "POS systems",
+      "image": "https://example.com/images/pos_system_2.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 80
+      }
+    },
+    {
+      "id": 16,
+      "title": "Autonomous Robot - Service",
+      "price": 5999.99,
+      "description": "A service robot designed for tasks in customer service and hospitality.",
+      "category": "robots",
+      "image": "https://example.com/images/robot_2.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 40
+      }
+    },
+    {
+      "id": 17,
+      "title": "Connected Vehicle - Autonomous",
+      "price": 39999.99,
+      "description": "An autonomous vehicle equipped with advanced sensors and edge computing capabilities.",
+      "category": "vehicles",
+      "image": "https://example.com/images/vehicle_2.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 25
+      }
+    },
+    {
+      "id": 18,
+      "title": "Wearable Sensor - Health Monitoring",
+      "price": 99.99,
+      "description": "A wearable sensor for continuous health monitoring and fitness tracking.",
+      "category": "sensors",
+      "image": "https://example.com/images/wearable_sensor_2.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 280
+      }
+    },
+    {
+      "id": 19,
+      "title": "Edge Server - Rugged Design",
+      "price": 1999.99,
+      "description": "A rugged edge server designed for harsh environments and demanding applications.",
+      "category": "servers",
+      "image": "https://example.com/images/edge_server_3.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 90
+      }
+    },
+    {
+      "id": 20,
+      "title": "Smart Speaker - Portable",
+      "price": 129.99,
+      "description": "A portable smart speaker with high-quality audio and voice assistant integration.",
+      "category": "smart speakers",
+      "image": "https://example.com/images/smart_speaker_3.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 210
+      }
+    }
+  ]
+  
